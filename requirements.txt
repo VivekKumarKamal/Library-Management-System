@@ -1,0 +1,45 @@
+# Flask framework
+Flask==3.0.3  # Latest stable version
+# Flask-Cors==4.0.1
+Flask-security-too
+flask-restful
+replit==0.0.1
+datetime
+
+# Flask extensions
+Flask-SQLAlchemy==3.1.1  # ORM for SQLite
+Flask-Migrate==4.0.7  # Database migrations
+Flask-JWT-Extended==4.6.0  # JWT-based authentication
+Flask-CORS==3.0.10  # Cross-Origin Resource Sharing
+Flask-Login==0.6.3  # Session management
+
+# APScheduler
+APScheduler==3.10.1
+
+# SQLAlchemy
+SQLAlchemy==2.0.32  # Core SQL toolkit
+
+# Marshmallow for serialization/deserialization
+# marshmallow==3.20.1
+# marshmallow-sqlalchemy==0.30.1
+
+# Email and SMS Notifications
+# smtplib==1.0.0  # Built-in Python SMTP library for email notifications
+twilio==9.2.3  # SMS notifications (if using Twilio)
+
+# Date and time utilities
+python-dateutil==2.9.0
+
+# Other utilities
+passlib==1.7.4  # Password hashing
+python-dotenv==1.0.1  # Environment variable management
+
+# Testing
+pytest==8.3.2  # Testing framework
+pytest-cov==4.1.0  # Test coverage
+
+# Request handling
+requests==2.32.3  # HTTP requests
+
+# Webhooks
+requests-oauthlib==2.0.0  # For OAuth 1 and OAuth 2 authentication
